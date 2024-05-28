@@ -1,4 +1,4 @@
-# Android Project 2 - *WishList*
+# Android Project 2 W Codepath - *WishList*
 
 Submitted by: **Salako Favour**
 
